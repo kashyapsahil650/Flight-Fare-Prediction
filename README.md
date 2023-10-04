@@ -18,10 +18,12 @@ in the airline and travel industries benefiting both travelers and service provi
 
 1.As first step, we load our FlightFare_Dataset from Project Directory, using Pandas read_excel method
 
-2.Then, we perform Feature Exploration and Engineering to transform our dataset
+2. Perform Data Cleaning ,Data Manipulation and Exploratory Data Analysis (EDA) using Pandas, NumPy, Matplotlib, Seaborn Libraries.¶
 
-3.Once done, we use a Feature Selection technique to select the most important features
+3.Then, we perform Feature Exploration and Engineering to transform our dataset
 
-4.At this point, we train our model in Linear Regression and Random Forest
+4.Once done, we use a Feature Selection technique to select the most important features
 
-5.As next step, we do hyper-parameter tuning (using RandomGridSearch) to build the best mode
+5.At this point, we train our model in Linear Regression and Random Forest
+
+6.As next step, we do hyper-parameter tuning (using RandomGridSearch) to build the best mode
