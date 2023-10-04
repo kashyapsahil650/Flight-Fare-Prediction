@@ -26,4 +26,4 @@ in the airline and travel industries benefiting both travelers and service provi
 
 5.At this point, we train our model in Linear Regression and Random Forest
 
-6.As next step, we do hyper-parameter tuning (using RandomGridSearch) to build the best mode
+# Accuracy is 77 %
